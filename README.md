@@ -9,8 +9,8 @@ A simple project showcasing interactive cards using Vue.js and CSS. Sports data 
 
 
 # Project structure
-.
-├── index.html         # Main HTML file
-├── css/styles.css     # Custom CSS styles
-├── data/sports.json   # JSON with sports data
-└── README.md          # Documentation
+ - .
+ - ├── index.html         # Main HTML file
+ - ├── css/styles.css     # Custom CSS styles
+ - ├── data/sports.json   # JSON with sports data
+ - └── README.md          # Documentation
