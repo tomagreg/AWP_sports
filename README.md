@@ -11,8 +11,6 @@ A simple project showcasing interactive cards using Vue.js and CSS. Sports data 
 # Features
  - Navigate through sports cards with buttons.
  - Toggle between title and description.
- - Dynamic image loading with a default fallback.
- - Responsive layout using Flexbox.
 
 
 # Project structure
