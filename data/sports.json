@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Football",
+    "desc": "Football is a team sport where two teams compete to score goals by kicking a ball into the opposing team's net. It is played on a rectangular field and is known for its worldwide popularity.",
+    "img": "https://cdn.pixabay.com/photo/2016/05/16/21/07/football-1396740_1280.jpg"
+  },
+  {
+    "title": "Basketball",
+    "desc": "Basketball is a team sport in which players aim to score points by shooting a ball through a hoop. It is played indoors and is famous for its fast-paced action and thrilling dunks.",
+    "img": "https://images.pexels.com/photos/1752757/pexels-photo-1752757.jpeg"
+  },
+  {
+    "title": "Tennis",
+    "desc": "Tennis is an individual or doubles sport where players use rackets to hit a ball over a net, aiming to land it in the opponent's court. It can be played on various surfaces, including grass, clay, and hard courts.",
+    "img": "https://cdn.pixabay.com/photo/2020/11/27/18/59/tennis-5782695_1280.jpg"
+  },
+  {
+    "title": "Swimming",
+    "desc": "Swimming is an aquatic sport where individuals race in water over different distances, either in a pool or open water. It is known for its health benefits and Olympic significance.",
+    "img": "https://plus.unsplash.com/premium_photo-1664475361436-e37f6f2ba407?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "title": "Rugby",
+    "desc": "Rugby is a team sport where two teams try to score tries by carrying or kicking a ball over the opponent's goal line. It is known for its physicality and the intense competition between teams.",
+    "img": "https://as1.ftcdn.net/v2/jpg/02/01/15/74/1000_F_201157456_QwzTmohTtySWRhZxo6hDWevgn4h6tlCA.jpg"
+  },
+  {
+    "title": "Cycling",
+    "desc": "Cycling is an individual or team sport that involves racing on bicycles, either on the road or track. Competitive cycling includes events such as road races, time trials, and mountain biking.",
+    "img": "https://cdn.pixabay.com/photo/2016/11/22/23/49/cyclists-1851269_1280.jpg"
+  },
+  {
+    "title": "Boxing",
+    "desc": "Boxing is a combat sport where two athletes face off in a ring and use their fists to strike each other. It is a test of strength, skill, and endurance, with the goal of scoring points or knocking out the opponent.",
+    "img": "https://cdn.pixabay.com/photo/2012/10/25/23/32/boxing-62867_1280.jpg"
+  },
+  {
+    "title": "Golf",
+    "desc": "Golf is an individual sport where players aim to hit a small ball into a series of holes on a course with as few strokes as possible. It is known for its leisurely pace and precision.",
+    "img": "https://images.pexels.com/photos/92858/pexels-photo-92858.jpeg"
+  },
+  {
+    "title": "Volleyball",
+    "desc": "Volleyball is a team sport in which two teams compete to send a ball over a net and into the opponent's court. It is played on a sand court or indoor court and is known for its exciting rallies.",
+    "img": "https://images.pexels.com/photos/1263426/pexels-photo-1263426.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "title": "Alpine Skiing",
+    "desc": "Alpine skiing is a winter sport where skiers race down snow-covered slopes, navigating gates and obstacles. It is a high-speed sport that requires skill and control on various types of terrain.",
+    "img": "https://img.freepik.com/free-photo/skier-skiing-snowy-surface-wearing-skiing-outfit-helmet_181624-1490.jpg?ga=GA1.1.1597807030.1732736682&semt=ais_hybrid"
+  }
+]
